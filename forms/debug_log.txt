@@ -1,0 +1,10 @@
+Array
+(
+    [name] => Jenese Jose
+    [email] => jenesejose@gmail.com
+    [phone] => 09589931515
+    [date] => 2025-04-08T19:04
+    [department] => Neurology
+    [doctor] => Dr. Jane
+    [message] => 
+)
